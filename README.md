@@ -1,2 +1,2 @@
 # obos-genissue
-Generate /run/issue dynamicly for obsidianOS
+Generate /run/issue dynamically for ObsidianOS
